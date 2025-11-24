@@ -1,5 +1,7 @@
 # 💰 Personal Finance SQL Data Analysis
 
+![image alt](https://github.com/mrphil001/personal-finance-sql-analysis/blob/952ebe2ed7d2ccedb5e46e98c27f24146caecdc3/personal_finance_dashboard_preview.png)
+
 ## 📋 Overview
 This project performs an end-to-end **personal finance analysis** using SQL.  
 It explores income, expenses, category-wise spending, and budget variance to uncover **financial insights** and **spending patterns**.  
